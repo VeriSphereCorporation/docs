@@ -2,7 +2,7 @@
 ### White Paper — v13.2 (Avalanche Edition, Draft)  
 **Date:** May 2026  
 **Contact:** admin@verisphered.com
-**Discord** https://discord.gg/bzAdzceK
+**Discord** https://discord.gg/ghhpa9eHJ
 
 ---
 
