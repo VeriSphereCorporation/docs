@@ -1,7 +1,7 @@
 # VeriSphere: A Game of Staked Truth  
 ### White Paper — v13.2 (Avalanche Edition, Draft)  
-**Date:** January 2026  
-**Contact:** info@verisphere.co  
+**Date:** May 2026  
+**Contact:** admin@verisphered.com
 **Discord** https://discord.gg/bzAdzceK
 
 ---
